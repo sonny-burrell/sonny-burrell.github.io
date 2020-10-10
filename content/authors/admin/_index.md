@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Martin Danelljan
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,24 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral researcher in Computer Vision and Machine Learning
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CVL, ETH Zurich
+  url: "https://vision.ee.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. I am a postdoctoral researcher in the Computer Vision Lab at ETH Zurich, Switzerland.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+#interests:
+#- Artificial Intelligence
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +39,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/MDanelljan
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=NCSSpMkAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/martin-danelljan
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "martin.danelljan@vision.ee.ethz.ch"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,6 +65,11 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. I am a postdoctoral researcher in the Computer Vision Lab at ETH Zurich, Switzerland.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My main research interests are meta and online learning, deep probabilistic models, and generative methods. My research includes applications to visual tracking, video object segmentation, dense correspondence estimation, and super-resolution. 
+
+**News:**
+* **Two NeurIPS 2020** papers accepted.
+* **Five ECCV 2020** papers accepted incl. 1 oral and 2 spotlights.
+* **Four CVPR 2020** papers accepted incl. 2 orals.
