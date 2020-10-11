@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher in Computer Vision and Machine Learning
+role: Postdoctoral researcher at ETH Zurich
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://vision.ee.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. I am a postdoctoral researcher in the Computer Vision Lab at ETH Zurich, Switzerland.
+bio: 
 
 #interests:
 #- Artificial Intelligence
