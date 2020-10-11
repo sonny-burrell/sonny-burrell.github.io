@@ -33,17 +33,21 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/1909.12297
+- name: Video (1 min)
+  url: https://youtu.be/oacQnWV7XeI
+- name: Video (10 min)
+  url: https://youtu.be/PW8UzjxVwJo
 - name: Code Tracking
   url: https://github.com/visionml/pytracking
 - name: Slides
-  url: http://www.fregu856.com/files/ebms_regression_90sec.pdf
+  url: http://www.fregu856.com/files/dctd_10min.pdf
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: https://github.com/fregu856/ebms_regression
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: 'https://prunetruong.com/research/gocor'
 #url_source: '#'
-url_video: https://youtu.be/BpzcgufCZ2g
+#url_video: https://youtu.be/oacQnWV7XeI
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

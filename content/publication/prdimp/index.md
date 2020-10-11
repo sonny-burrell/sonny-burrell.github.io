@@ -40,7 +40,7 @@ url_code: 'https://github.com/visionml/pytracking#prdimp'
 #url_project: 'https://prunetruong.com/research/glu-net'
 #url_slides: ''
 #url_source: '#'
-#url_video: 'https://www.youtube.com/watch?v=xB2gNx8f8Xc&feature=emb_title'
+url_video: 'https://www.youtube.com/watch?v=pffQL9EXrQw'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

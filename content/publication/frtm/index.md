@@ -44,7 +44,7 @@ url_code: 'https://github.com/andr345/frtm-vos'
 #url_project: 'https://prunetruong.com/research/gocor'
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=RxwsWKKp7RI'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
