@@ -31,7 +31,7 @@ abstract: Scalable Vector Graphics (SVG) are ubiquitous in modern 2D interfaces 
 summary: <b style="font-size:120%;color:#008080">NeurIPS 2020</b><br> Dataset and method for generating vector graphics. 
 tags:
 #- Source Themes
-featured: false
+featured: true
 
 links:
 - name: arXiv

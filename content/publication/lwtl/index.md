@@ -39,6 +39,10 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2003.11540
+- name: Video (10 min)
+  url: https://www.youtube.com/watch?v=aazlt8qCggU&ab_channel=VisionML
+- name: Video (2 min)
+  url: https://www.youtube.com/watch?v=TO0HK1ngMak&ab_channel=VisionML
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/visionml/pytracking#lwl'
 #url_dataset: '#'
@@ -46,7 +50,7 @@ url_code: 'https://github.com/visionml/pytracking#lwl'
 #url_project: 'https://prunetruong.com/research/gocor'
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+#url_video: 'https://www.youtube.com/watch?v=aazlt8qCggU&ab_channel=VisionML'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

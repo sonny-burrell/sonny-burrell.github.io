@@ -33,6 +33,10 @@ featured: false
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2003.11014
+- name: Video (10 min)
+  url: https://www.youtube.com/watch?v=G3kuIGY8p7w
+- name: Video (1 min)
+  url: https://www.youtube.com/watch?v=-7nTOx9i5Q0
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/visionml/pytracking#kys'
 #url_dataset: '#'
