@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher at ETH Zurich
+role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://vision.ee.ethz.ch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Researcher in Computer Vision and Machine Learning at ETH Zurich
 
 #interests:
 #- Artificial Intelligence
