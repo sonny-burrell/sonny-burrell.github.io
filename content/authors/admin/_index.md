@@ -34,18 +34,21 @@ bio: Researcher in Computer Vision and Machine Learning at ETH Zurich
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/MDanelljan
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NCSSpMkAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/martin-danelljan
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/MDanelljan
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/martin-danelljan/
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:martin.danelljan@vision.ee.ethz.ch'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
