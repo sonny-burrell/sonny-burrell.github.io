@@ -1,7 +1,7 @@
 ---
 title: "Learning Discriminative Model Prediction for Tracking"
 authors:
-- Goutam Bhat
+- goutam
 - admin
 - Luc Van Gool
 - Radu Timofte

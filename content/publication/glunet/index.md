@@ -1,7 +1,7 @@
 ---
 title: "GLU-Net: Global-Local Universal Network for Dense Flow and Correspondences"
 authors:
-- Prune Truong
+- prune
 - admin
 - Radu Timofte
 

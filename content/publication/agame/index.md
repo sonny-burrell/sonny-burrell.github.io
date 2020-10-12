@@ -1,7 +1,7 @@
 ---
 title: "A Generative Appearance Model for End-to-end Video Object Segmentation"
 authors:
-- Joakim Johnander
+- joakim
 - admin
 - Emil Brissman
 - Fahad Shahbaz Khan

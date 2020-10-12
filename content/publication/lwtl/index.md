@@ -1,7 +1,7 @@
 ---
 title: "Learning What to Learn for Video Object Segmentation"
 authors:
-- Goutam Bhat
+- goutam
 - Felix Järemo Lawin
 - admin
 - Andreas Robinson

@@ -1,7 +1,7 @@
 ---
 title: "Know Your Surroundings: Exploiting Scene Information for Object Tracking"
 authors:
-- Goutam Bhat
+- goutam
 - admin
 - Luc Van Gool
 - Radu Timofte

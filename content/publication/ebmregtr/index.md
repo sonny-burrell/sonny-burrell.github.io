@@ -1,7 +1,7 @@
 ---
 title: "How to Train Your Energy-Based Model for Regression"
 authors:
-- Fredrik Gustafsson
+- fredrik
 - admin
 - Radu Timofte
 - Thomas Schön

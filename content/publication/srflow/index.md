@@ -1,7 +1,7 @@
 ---
 title: "SRFlow: Learning the Super-Resolution Space with Normalizing Flow"
 authors:
-- Andreas Lugmayr
+- andreasl
 - admin
 - Luc Van Gool
 - Radu Timofte

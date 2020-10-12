@@ -2,7 +2,7 @@
 title: "ECO: Efficient Convolution Operators for Tracking"
 authors:
 - admin
-- Goutam Bhat
+- goutam
 - Fahad Shahbaz Khan
 - Michael Felsberg
 

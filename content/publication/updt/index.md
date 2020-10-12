@@ -1,8 +1,8 @@
 ---
 title: "Unveiling the Power of Deep Tracking"
 authors:
-- Goutam Bhat
-- Joakim Johnander
+- goutam
+- joakim
 - admin
 - Fahad Shahbaz Khan
 - Michael Felsberg

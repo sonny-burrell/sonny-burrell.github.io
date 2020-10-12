@@ -1,7 +1,7 @@
 ---
 title: "GOCor: Bringing Globally Optimized Correspondence Volumes into Your Neural Network"
 authors:
-- Prune Truong
+- prune
 - admin
 - Luc Van Gool
 - Radu Timofte

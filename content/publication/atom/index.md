@@ -2,7 +2,7 @@
 title: "ATOM: Accurate Tracking by Overlap Maximization"
 authors:
 - admin
-- Goutam Bhat
+- goutam
 - Fahad Shahbaz Khan
 - Michael Felsberg
 author_notes:
