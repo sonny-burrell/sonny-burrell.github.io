@@ -43,7 +43,7 @@ url_code: 'https://github.com/alexandre01/deepsvg'
 url_project: 'https://blog.alexandrecarlier.com/deepsvg/'
 #url_slides: ''
 #url_source: '#'
-#url_video: '#'
+url_video: 'https://youtu.be/1PSrQJcpZc4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
