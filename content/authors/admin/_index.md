@@ -72,6 +72,7 @@ I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis
 My main research interests are meta and online learning, deep probabilistic models, and generative methods. My research includes applications to visual tracking, video object segmentation, dense correspondence estimation, and super-resolution. 
 
 **News:**
+* **Four CVPR 2021** papers accepted incl. 2 orals.
+* **One ICRA 2020** paper accepted.
 * **Two NeurIPS 2020** papers accepted.
 * **Five ECCV 2020** papers accepted incl. 1 oral and 2 spotlights.
-* **Four CVPR 2020** papers accepted incl. 2 orals.
