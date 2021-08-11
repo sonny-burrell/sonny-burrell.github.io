@@ -34,13 +34,13 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2101.01710
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: 'https://github.com/PruneTruong/PDCNet'
+url_code: 'https://github.com/PruneTruong/DenseMatching'
 #url_dataset: '#'
 #url_poster: '#'
-#url_project: 'https://prunetruong.com/research/pdcnet'
+url_project: 'https://prunetruong.com/research/pdcnet'
 #url_slides: ''
 #url_source: '#'
-#url_video: ''
+url_video: 'https://youtu.be/bX0rEaSf88o'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
