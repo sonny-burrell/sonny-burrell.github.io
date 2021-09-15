@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
-#- name: arXiv
-#  url: https://arxiv.org/abs/2104.03308
+- name: arXiv
+  url: https://arxiv.org/abs/2108.08286
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_code: 'https://github.com/PruneTruong/DenseMatching'
 #url_dataset: '#'

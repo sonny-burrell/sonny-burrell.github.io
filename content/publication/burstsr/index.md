@@ -40,7 +40,7 @@ links:
 #url_project: 'https://prunetruong.com/research/pdcnet'
 #url_slides: ''
 #url_source: '#'
-#url_video: ''
+url_video: 'https://youtu.be/VK5UmDOCCec'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

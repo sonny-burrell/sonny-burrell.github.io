@@ -35,10 +35,10 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2101.05796
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-#url_code: ''
+url_code: 'https://github.com/volflow/DeFlow'
 #url_dataset: '#'
 #url_poster: '#'
-#url_project: 'https://prunetruong.com/research/pdcnet'
+#url_project: ''
 #url_slides: ''
 #url_source: '#'
 #url_video: ''
