@@ -1,7 +1,7 @@
 ---
 title: "Learning Target Candidate Association to Keep Track of What Not to Track"
 authors:
-- Christoph Mayer
+- christoph
 - admin
 - Danda Pani Paudel
 - Luc Van Gool

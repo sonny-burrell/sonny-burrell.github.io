@@ -1,7 +1,7 @@
 ---
 title: "Local Memory Attention for Fast Video Semantic Segmentation"
 authors:
-- Matthieu Paul
+- matthieu
 - admin
 - Luc Van Gool
 - Radu Timofte
