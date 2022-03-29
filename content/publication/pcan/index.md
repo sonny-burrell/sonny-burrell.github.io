@@ -30,7 +30,7 @@ publication_short: In *NeurIPS 2021*
 abstract: Multiple object tracking and segmentation requires detecting, tracking, and segmenting objects belonging to a set of given classes. Most approaches only exploit the temporal dimension to address the association problem, while relying on single frame predictions for the segmentation mask itself. We propose Prototypical Cross-Attention Network (PCAN), capable of leveraging rich spatio-temporal information for online multiple object tracking and segmentation. PCAN first distills a space-time memory into a set of prototypes and then employs cross-attention to retrieve rich information from the past frames. To segment each object, PCAN adopts a prototypical appearance module to learn a set of contrastive foreground and background prototypes, which are then propagated over time. Extensive experiments demonstrate that PCAN outperforms current video instance tracking and segmentation competition winners on both Youtube-VIS and BDD100K datasets, and shows efficacy to both one-stage and two-stage segmentation frameworks.
 
 # Summary. An optional shortened abstract.
-summary: <b style="font-size:120%;color:#008080">NeurIPS 2020</b> <b style="font-size:120%;color:#E08040">Spotlight</b><br> Efficient cross-attention for video instance segmentation. 
+summary: <b style="font-size:120%;color:#008080">NeurIPS 2021</b> <b style="font-size:120%;color:#E08040">Spotlight</b><br> Efficient cross-attention for video instance segmentation. 
 tags:
 #- Source Themes
 featured: true
