@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Evangelos Ntavelis
+title: Jan-Nico Zäch
 
 # Username (this should match the folder name)
 authors:
-- evan
+- nico
 
 # Is this the primary user of the site?
 superuser: false
@@ -36,7 +36,7 @@ bio:
 social:
 - icon: home
   icon_pack: fas
-  link: http://entavelis.com/
+  link: https://vision.ee.ethz.ch/people-details.MjU0MzQz.TGlzdC8zMjg5LC0xOTcxNDY1MTc4.html
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/MDanelljan
@@ -63,4 +63,3 @@ highlight_name: false
 user_groups:
 - "Co-supervised PhD Students"
 ---
-
