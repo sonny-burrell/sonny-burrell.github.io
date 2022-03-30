@@ -1,7 +1,7 @@
 ---
 title: "RePaint: Inpainting using Denoising Diffusion Probabilistic Models"
 authors:
-- andreas
+- andreasl
 - admin
 - Andres Romero
 - Fisher Yu
