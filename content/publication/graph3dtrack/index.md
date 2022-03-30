@@ -1,5 +1,5 @@
 ---
-title: "Adiabatic Quantum Computing for Multi Object Tracking"
+title: "Learnable Online Graph Representations for 3D Multi-Object Tracking"
 authors:
 - nico
 - Dengxin Dai

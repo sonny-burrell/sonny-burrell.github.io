@@ -1,5 +1,5 @@
 ---
-title: "Learning Target Candidate Association to Keep Track of What Not to Track"
+title: "Collapse by Conditioning: Training Class-conditional GANs with Limited Data"
 authors:
 - mo
 - admin
