@@ -36,7 +36,7 @@ bio:
 social:
 - icon: home
   icon_pack: fas
-  link: https://vision.ee.ethz.ch/people-details.MjMyNDI0.TGlzdC8zMjg5LC0xOTcxNDY1MTc4.html
+  link: https://www.linkedin.com/in/paulmatthieu/
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/MDanelljan
@@ -64,4 +64,4 @@ user_groups:
 - "Co-supervised PhD Students"
 ---
 
-# <b style="font-size:200%">Go to [Christoph's personal webpage](https://2006pmach.github.io/)</b>
+# <b style="font-size:200%">Go to [Matthieu's personal webpage](https://www.linkedin.com/in/paulmatthieu/)</b>
