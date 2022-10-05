@@ -67,12 +67,12 @@ user_groups:
 - Researchers
 ---
 
-I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. I am a researcher in the Computer Vision Lab at ETH Zurich, Switzerland.
+I am a research group leader at ETH Zurich, Switzerland. I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. 
 
-My main research interests are meta and online learning, deep probabilistic models, and generative methods. My research includes applications to visual tracking, video object segmentation, dense correspondence estimation, and super-resolution. 
+My main research interests are 3D visualization, temporal perception, deep probabilistic models, and generative methods. My research includes applications to video tracking and segmentation, dense correspondence estimation, super-resolution, and much more. 
 
 **News:**
+* **1 TPAMI** paper accepted.
 * **Six ECCV 2022** papers accepted.
 * **Six CVPR 2022** papers accepted.
 * **One ICLR 2022** paper accepted.
-* **One ICRA 2022** paper accepted.
