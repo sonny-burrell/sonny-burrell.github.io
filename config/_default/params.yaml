@@ -42,6 +42,8 @@ header:
     show_search: true
     highlight_active_link: true
 
+# Site footer
+
 footer:
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
@@ -62,20 +64,16 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
+    theme_light: github-light
+    theme_dark: dracula
   math:
-    enable: false
-  diagram:
     enable: false
   privacy_pack:
     enable: false
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -86,6 +84,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -102,10 +105,13 @@ features:
 
 extensions:
   cms:
-    branch: master
+    branch: main
     local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
   academicons:
     enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
