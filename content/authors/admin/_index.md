@@ -1,8 +1,8 @@
 ---
 # Display name
 title: Martin Danelljan
-first_name: Martin
-last_name: Danelljan
+# first_name: Martin
+# last_name: Danelljan
 
 # Username (this should match the folder name)
 authors:
