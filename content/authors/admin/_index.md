@@ -1,12 +1,14 @@
 ---
 # Display name
 title: Martin Danelljan
-# first_name: Martin
-# last_name: Danelljan
+
+# Full name (for SEO)
+first_name: Martin
+last_name: Danelljan
 
 # Username (this should match the folder name)
-authors:
-- admin
+# authors:
+# - admin
 
 # Is this the primary user of the site?
 superuser: true

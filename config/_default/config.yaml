@@ -5,7 +5,6 @@
 
 title: Martin Danelljan # Website name
 baseurl: 'https://martin-danelljan.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
