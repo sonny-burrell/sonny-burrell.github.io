@@ -1,7 +1,7 @@
 ---
 title: "Video Mask Transfiner for High-Quality Video Instance Segmentation"
 authors:
-- Lei Ke
+- leike
 - Henghui Ding
 - admin
 - Yu-Wing Tai

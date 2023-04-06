@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Co-supervised PhD Students"
+- "Graduated PhD Students"
 ---
 
 <b style="font-size:200%">Go to [Andreas's twitter](https://twitter.com/andreaslugmayr)</b>

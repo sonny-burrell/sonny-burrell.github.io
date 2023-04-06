@@ -1,7 +1,7 @@
 ---
 title: "Mask Transfiner for High-Quality Instance Segmentation"
 authors:
-- Lei Ke
+- leike
 - admin
 - Xia Li
 - Yu-Wing Tai

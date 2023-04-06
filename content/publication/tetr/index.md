@@ -1,7 +1,7 @@
 ---
 title: "Tracking Every Thing in the Wild"
 authors:
-- Siyuan Li
+- siyuan
 - admin
 - Henghui Ding
 - Thomas Huang

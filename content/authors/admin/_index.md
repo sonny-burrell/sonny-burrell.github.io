@@ -71,12 +71,9 @@ user_groups:
 - Researchers
 ---
 
-I am a research group leader at ETH Zurich and co-founder of [Elevate3D](https://elevate3d.ai/). 
-
-I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. My main research interests are 3D visualization, temporal perception, deep probabilistic models, and generative methods. My research includes applications to video tracking and segmentation, dense correspondence estimation, super-resolution, and much more. 
+I am a research group leader at ETH Zurich. I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. My main research interests are temporal perception, deep probabilistic models, and generative methods. My research includes applications to video tracking and segmentation, dense correspondence estimation, image enhancement, and much more. 
 
 **News:**
-* **1 TPAMI** paper accepted.
+* **Three CVPR 2023** papers accepted.
+* **2 TPAMI** papers accepted.
 * **Six ECCV 2022** papers accepted.
-* **Six CVPR 2022** papers accepted.
-* **One ICLR 2022** paper accepted.
