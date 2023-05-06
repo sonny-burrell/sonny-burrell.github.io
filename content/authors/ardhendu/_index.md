@@ -61,7 +61,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Co-supervised PhD Students"
+- "Graduated PhD Students"
 ---
 
 <b style="font-size:200%">Go to [Ardhendu's personal webpage](https://vision.ee.ethz.ch/people-details.MjU0Mzc1.TGlzdC8zMjg5LC0xOTcxNDY1MTc4.html)</b>
