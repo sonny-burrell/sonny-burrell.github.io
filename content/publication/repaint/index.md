@@ -4,7 +4,6 @@ authors:
 - andreasl
 - admin
 - Andres Romero
-- Fisher Yu
 - Radu Timofte
 - Luc Van Gool
 

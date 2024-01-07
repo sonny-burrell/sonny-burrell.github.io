@@ -53,7 +53,7 @@ social:
 #  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "martin.danelljan@vision.ee.ethz.ch"
+#email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false

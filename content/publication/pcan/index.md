@@ -6,7 +6,7 @@ authors:
 - admin
 - Yu-Wing Tai
 - Chi-Keung Tang
-- Fisher Yu
+- Et al.
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"

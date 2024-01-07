@@ -6,7 +6,7 @@ authors:
 - Henghui Ding
 - Yu-Wing Tai
 - Chi-Keung Tang
-- Fisher Yu
+- Et al.
 
 date: "2023-04-01T08:00:00Z"
 doi: ""

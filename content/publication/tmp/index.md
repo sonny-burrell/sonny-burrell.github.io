@@ -6,7 +6,6 @@ authors:
 - goutam
 - matthieu
 - Danda Pani Paudel
-- Fisher Yu
 - Luc Van Gool
 
 date: "2022-03-01T03:00:00Z"

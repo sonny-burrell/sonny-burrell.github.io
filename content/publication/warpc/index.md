@@ -3,7 +3,6 @@ title: "Warp Consistency for Unsupervised Learning of Dense Correspondences"
 authors:
 - prune
 - admin
-- Fisher Yu
 - Luc Van Gool
 
 date: "2021-08-01T06:00:00Z"

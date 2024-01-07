@@ -6,7 +6,6 @@ authors:
 - Dengxin Dai
 - Danda Pani Paudel
 - Ajad Chhatkuli
-- Fisher Yu
 - Luc Van Gool
 
 date: "2022-08-01T01:00:00Z"

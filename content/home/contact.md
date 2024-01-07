@@ -28,24 +28,24 @@ content:
 
   # Contact details (edit or remove options as required)
 
-  email: martin.danelljan@vision.ee.ethz.ch
+  email: martin.danelljan [at] gmail.com
   phone:
   address:
-    street: Sternwartstrasse 7
-    city: Zurich
-    region:
-    postcode: '8092'
-    country: Switzerland
-    country_code: CH
-  coordinates:
-    latitude: '47.3772'
-    longitude: '8.5522'
-  directions: 'Building: ETF. Room: D117'
-  office_hours:
+    # street: Sternwartstrasse 7
+    city: Mountain View
+    region: California
+    # postcode: '8092'
+    country: USA
+    # country_code: CH
+  # coordinates:
+  #   latitude: '47.3772'
+  #   longitude: '8.5522'
+  # directions: 'Building: ETF. Room: D117'
+  # office_hours:
     # - 'Monday 10:00 to 13:00'
     # - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  contact_links:
+  # contact_links:
 
 design:
   columns: '2'

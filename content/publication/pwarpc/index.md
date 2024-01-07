@@ -3,7 +3,6 @@ title: "Probabilistic Warp Consistency for Weakly-Supervised Semantic Correspond
 authors:
 - prune
 - admin
-- Fisher Yu
 - Luc Van Gool
 
 date: "2022-03-01T06:00:00Z"

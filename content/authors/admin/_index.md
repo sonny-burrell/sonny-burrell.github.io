@@ -18,11 +18,11 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: CVL, ETH Zurich
-  url: "https://vision.ee.ethz.ch/"
+- name: Apple
+  url: "https://www.apple.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Researcher in Computer Vision and Machine Learning at ETH Zurich
+bio: Researcher in Computer Vision and Machine Learning at Apple
 
 #interests:
 #- Artificial Intelligence
@@ -50,9 +50,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/martin-danelljan/
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:martin.danelljan@vision.ee.ethz.ch'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: 'mailto:'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
@@ -60,7 +60,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "martin.danelljan@vision.ee.ethz.ch"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -71,9 +71,12 @@ user_groups:
 - Researchers
 ---
 
-I am a research group leader at ETH Zurich. I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. My main research interests are temporal perception, deep probabilistic models, and generative methods. My research includes applications to video tracking and segmentation, dense correspondence estimation, image enhancement, and much more. 
+I am senior computer vision research engineer at the 3D Vision group at **Apple**, where I am building a team working on 3D computer vision at a global scale. Previously, I was a research group leader at ETH Zurich and founder of Elevate3D. I received my Ph.D. degree from Linköping University, Sweden in 2018. My thesis "Visual Tracking" was awarded the biennial Best Nordic Thesis Prize. 
+
+
+<b style="font-size:120%;color:#F030C0">Hiring:</b> I am looking for very talented researchers and engineers in computer vision and machine learning to join our group at **Apple**. Contact me if you are interested! 
 
 **News:**
-* **Three CVPR 2023** papers accepted.
-* **2 TPAMI** papers accepted.
-* **Six ECCV 2022** papers accepted.
+* **Joined Apple in Nov. 2023.**
+* **Three NeurIPS 2023** papers accepted.
+* **Three ICCV 2023** papers accepted.

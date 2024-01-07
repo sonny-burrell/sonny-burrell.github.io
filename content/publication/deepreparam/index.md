@@ -3,7 +3,6 @@ title: "Deep Reparametrization of Multi-Frame Super-Resolution and Denoising"
 authors:
 - goutam
 - admin
-- Fisher Yu
 - Luc Van Gool
 - Radu Timofte
 
